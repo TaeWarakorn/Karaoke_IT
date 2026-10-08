@@ -1,0 +1,20 @@
+# เพลงที่ทำแล้ว โมเดล AI และไฟล์ชั่วคราว (ใหญ่และมีลิขสิทธิ์ ไม่ควรขึ้น GitHub)
+library/
+cache/
+output/
+dist/
+
+# ส่วนที่ตัวติดตั้งดาวน์โหลดให้เอง
+.venv/
+tools/
+*.exe
+deno.zip
+
+# ไฟล์ของเครื่องแต่ละเครื่อง
+__pycache__/
+karaoke.log
+settings.json
+
+# ไฟล์เก่าที่ไม่ใช้แล้ว
+enable_gpu.bat
+Karaoke.zip
